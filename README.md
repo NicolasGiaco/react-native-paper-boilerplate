@@ -1,6 +1,6 @@
 # react-native-paper-boilerplate
 
-This is a really basic boilerplate project for building React Native applications using React Native Paper, Expo, and Tailwind CSS.
+This is a really basic boilerplate project for building React Native applications using React Native Paper, Expo 52, and Tailwind CSS.
 
 ## Getting Started
 
@@ -21,8 +21,10 @@ This is a really basic boilerplate project for building React Native application
 
 2. Install dependencies:
 
-`npm install`
+   `npm install`
 
 3. Start the development server:
 
-`npm start`
+   `npm start`
+
+### Enjoy !
